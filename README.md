@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-jimpick-mcp-json-db-collection-server-badge.png)](https://mseep.ai/app/mcp-mirror-jimpick-mcp-json-db-collection-server)
+
 # Model Context Protocol and Fireproof Demo: JSON Document Collection Server
 
 <h1>
